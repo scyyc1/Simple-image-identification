@@ -1,7 +1,7 @@
 # Simple-image-identification
 
 This is a simple image processing program with NN model through matlab
-The raw image data are in the animals director
+The raw image data are in the animals director (Unzip the animals package to root)
 The aim is to train a NN model to identiy the difference of cat, dog and panda
 
 few steps to test it:
@@ -17,7 +17,7 @@ you can modify the ratio of data in the dataset for traning/valification (Line 1
 3. The analysis please refer to analysis.pdf
 
 这是一个简单的图像识别模型
-训练的图像在animals文件夹里
+训练的图像在animals文件夹里(需要解压animals并放到根目录下)
 目的是用训练能识别出猫、狗和熊猫的NN模型
 
 1. build_animals:
